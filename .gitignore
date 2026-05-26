@@ -1,0 +1,25 @@
+# C++ compiled files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+
+# Build directories
+build/
+cmake-build-*/
+
+# Java
+*.class
+target/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
